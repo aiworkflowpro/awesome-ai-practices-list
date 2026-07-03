@@ -2,19 +2,26 @@
 
 > Prompts, pipelines and params behind the clips going viral
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 10:26 UTC · 22 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 16:26 UTC · 26 practices
 
 ## 2026-07-02
 
+### [550 videos per day with Claude + Kling 3.0 for realistic UGC ads](https://digestops.com/p/550-videos-per-day-with-claude-kling-3-0-for-realistic-ugc-78)
+*by [@FynCas](https://x.com/FynCas) · 204 likes · [source](https://x.com/FynCas/status/2072681805312884947)*
+
+- Claude + Kling 3.0 generates fully-realistic UGC ads with cinematic lighting and human motion.
+- AI engine creates, tests, and scales short-form ads automatically.
+- UGC cost is $0, production time is minutes, scale is instant.
+
 ### [Built an AI speed radar with Claude that sold to a city district for $317,000.](https://digestops.com/p/built-an-ai-speed-radar-with-claude-that-sold-to-a-city-20)
-*by [@0x_fokki](https://x.com/0x_fokki) · 723 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
+*by [@0x_fokki](https://x.com/0x_fokki) · 976 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
 
 - Claude tags vehicles and pedestrians in real-time from a camera feed, flagging speeders.
 - It clips video, reads license plates, matches owners, and emails fines automatically.
 - The system was built in 9 days for $20 in API calls.
 
 ### [16-min tutorial: build cinematic $50k websites with Claude Fable 5](https://digestops.com/p/16-min-tutorial-build-cinematic-50k-websites-with-claude-60)
-*by [@viktoroddy](https://x.com/viktoroddy) · 2705 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
+*by [@viktoroddy](https://x.com/viktoroddy) · 3089 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
 
 - Recorded a step-by-step tutorial on using Claude Fable 5 to build high-end websites.
 - Demonstrates how anyone can build stunning sites fully with AI.
@@ -28,8 +35,15 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Color-code annotations separately for body movement, camera motion, framing, and lighting.
 - Generate character and environment sheets in GPT Image 2 from the annotated board before animating.
 
+### [Lock one AI character across entire video with Google Flow + Claude + GPT image](https://digestops.com/p/lock-one-ai-character-across-entire-video-with-google-flow-77)
+*by [@sulfurscales](https://x.com/sulfurscales) · 325 likes · [source](https://x.com/sulfurscales/status/2072385090395766969)*
+
+- Build the character inside Flow's character section, not per-clip prompt.
+- Design voice and personality once, reuse across every clip.
+- Generate full turnaround sheet with Claude writing prompt and GPT image rendering angles.
+
 ### [Built a Claude agent that creates websites in 45 minutes and generated $31,529 in one month.](https://digestops.com/p/built-a-claude-agent-that-creates-websites-in-45-minutes-19)
-*by [@mikenevermiss](https://x.com/mikenevermiss) · 763 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 776 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
 
 - Claude builds complete websites from a single prompt including business type, colors, sections, and writing style.
 - The websites are clean HTML, mobile-friendly, fast-loading, with a working contact form.
@@ -50,7 +64,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - One AI girl can make $15,300/month; scaled to 2000 devices.
 
 ### [A developer built a system of 20 AI agents that generated $20,000 in a month by running Etsy stores, Fiverr gigs, and other online businesses.](https://digestops.com/p/a-developer-built-a-system-of-20-ai-agents-that-generated-12)
-*by [@sandy4kad](https://x.com/sandy4kad) · 5985 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
+*by [@sandy4kad](https://x.com/sandy4kad) · 6311 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
 
 - Use a central agent (e.g., 'Ultron' on GPT-5.5) to coordinate other agents and keep them working.
 - Automate product research by scraping Etsy for top sellers and replicating with small tweaks.
@@ -73,7 +87,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Drones fire biodegradable seed pods at 180 capsules per minute, and satellite imagery monitors regrowth.
 
 ### [User generated a video of a young Korean woman in a residential neighborhood using Seedance 2.0 on OpenArt AI.](https://digestops.com/p/user-generated-a-video-of-a-young-korean-woman-in-a-10)
-*by [@john_my07](https://x.com/john_my07) · 14808 likes · [source](https://x.com/john_my07/status/2071977017474789557)*
+*by [@john_my07](https://x.com/john_my07) · 14935 likes · [source](https://x.com/john_my07/status/2071977017474789557)*
 
 - Use a detailed prompt specifying subject appearance, location, and visual style for consistent video generation.
 - Include constraints like 'maintain consistent identity' and 'no commercial activity' to guide the model.
@@ -81,8 +95,21 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 
 ## 2026-06-29
 
+### [Handheld camera motion for Seedance 2.0 using iPhone ARKit](https://digestops.com/p/handheld-camera-motion-for-seedance-2-0-using-iphone-arkit-76)
+*by [@maxprokopp](https://x.com/maxprokopp) · 1414 likes · [source](https://x.com/maxprokopp/status/2071658167453515933)*
+
+- Use iPhone ARKit to capture realistic handheld camera motion in 3D space, then feed to Seedance for AI filmmaking.
+- Stage the scene in open source 3D space, walk around to record motion, generate starting image, then feed to Seedance.
+
+### [87% cost cut with 4% quality loss by swapping to Chinese AI models](https://digestops.com/p/87-cost-cut-with-4-quality-loss-by-swapping-to-chinese-ai-75)
+*by [@DeRonin_](https://x.com/DeRonin_) · 7852 likes · [source](https://x.com/DeRonin_/status/2071561335234531578)*
+
+- Replaced Opus 4.8 with Kimi K2.7 for reasoning, achieving 11x cheaper price with ~8% benchmark gap.
+- Swapped GPT-5.5 to Qwen 3.7 Max for code generation, 7x cheaper with ~18% benchmark gap.
+- For video generation, replaced Sora 2 with Kling 3.0 at 6x cheaper with roughly equal quality.
+
 ### [Tutorial on generating unlimited AI images and videos using Google Flow automation.](https://digestops.com/p/tutorial-on-generating-unlimited-ai-images-and-videos-using-16)
-*by [@chrisdadiva](https://x.com/chrisdadiva) · 1667 likes · [source](https://x.com/chrisdadiva/status/2071507965035655442)*
+*by [@chrisdadiva](https://x.com/chrisdadiva) · 1672 likes · [source](https://x.com/chrisdadiva/status/2071507965035655442)*
 
 - Google Flow can automate AI image and video generation without browser extensions.
 - The workflow enables bulk content creation and repetitive task automation.
@@ -91,7 +118,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 ## 2026-06-28
 
 ### [Up to $5k/month making AI cartoons on YouTube with Picsart and ChatGPT](https://digestops.com/p/up-to-5k-month-making-ai-cartoons-on-youtube-with-picsart-41)
-*by [@bonsaixbt](https://x.com/bonsaixbt) · 687 likes · [source](https://x.com/bonsaixbt/status/2071316264153186512)*
+*by [@bonsaixbt](https://x.com/bonsaixbt) · 686 likes · [source](https://x.com/bonsaixbt/status/2071316264153186512)*
 
 - Find viral kids' videos and copy their transcript as a foundation.
 - Use ChatGPT to generate a detailed prompt for a similar kids show.
@@ -112,7 +139,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Six cinematic effects (film grain, particles, vignette, glass cards, color tints, scroll pacing) ship by default.
 
 ### [Physical knobs and voice control Claude Code without typing or mouse](https://digestops.com/p/physical-knobs-and-voice-control-claude-code-without-typing-62)
-*by [@hey_madni](https://x.com/hey_madni) · 242 likes · [source](https://x.com/hey_madni/status/2071131570048757922)*
+*by [@hey_madni](https://x.com/hey_madni) · 243 likes · [source](https://x.com/hey_madni/status/2071131570048757922)*
 
 - TP-7 button controls Claude Code functions like switching agents and seeing status on display.
 - Voice input works in any language and runs locally.
@@ -128,7 +155,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 ## 2026-06-27
 
 ### [$3,700/month Fanvue business by turning himself into AI girl with Claude, ComfyUI, Kling](https://digestops.com/p/3-700-month-fanvue-business-by-turning-himself-into-ai-girl-43)
-*by [@shmidtqq](https://x.com/shmidtqq) · 471 likes · [source](https://x.com/shmidtqq/status/2070799442836361712)*
+*by [@shmidtqq](https://x.com/shmidtqq) · 473 likes · [source](https://x.com/shmidtqq/status/2070799442836361712)*
 
 - Claude designs the character, ComfyUI generates the face, Kling turns stills into viral reels.
 - Custom Claude system analyzes chat data, optimizes pricing, and drafts replies in the girl's voice.

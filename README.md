@@ -4,14 +4,14 @@
 No hot takes — every entry is something a practitioner actually built, with
 reusable takeaways and a link to the source.
 
-Live site with search, API and MCP: **[digestops.com](https://digestops.com)** · updated 2026-07-03 10:26 UTC
+Live site with search, API and MCP: **[digestops.com](https://digestops.com)** · updated 2026-07-03 16:26 UTC
 
 | Topic | Practices | Focus |
 |-------|-----------|-------|
-| [Frontier Models](frontier-models.md) | 15 | What people actually build the week a new model drops |
-| [AI Coding & Agents](ai-coding.md) | 8 | Working setups for coding agents, not hot takes |
-| [AI Video](ai-video.md) | 22 | Prompts, pipelines and params behind the clips going viral |
-| [AI Web & Product Design](ai-web-design.md) | 23 | From one-line prompt to shipped interface |
+| [Frontier Models](frontier-models.md) | 17 | What people actually build the week a new model drops |
+| [AI Coding & Agents](ai-coding.md) | 12 | Working setups for coding agents, not hot takes |
+| [AI Video](ai-video.md) | 26 | Prompts, pipelines and params behind the clips going viral |
+| [AI Web & Product Design](ai-web-design.md) | 28 | From one-line prompt to shipped interface |
 
 ## For agents
 

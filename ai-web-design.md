@@ -2,7 +2,7 @@
 
 > From one-line prompt to shipped interface
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 10:26 UTC · 23 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 16:26 UTC · 28 practices
 
 ## 2026-07-02
 
@@ -13,7 +13,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - No switching tools or re-uploading; no editing skills required.
 
 ### [Alibaba open-sourced PageAgent, a JavaScript AI agent that lives inside webpages for natural language control.](https://digestops.com/p/alibaba-open-sourced-pageagent-a-javascript-ai-agent-that-24)
-*by [@KanikaBK](https://x.com/KanikaBK) · 2467 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
+*by [@KanikaBK](https://x.com/KanikaBK) · 2831 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
 
 - PageAgent can be embedded with a single line of HTML and works without browser extensions or backend changes.
 - It supports smart form filling, voice commands, multi-page tasks, and MCP server integration.
@@ -34,14 +34,14 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - The app started from a single building and grew to 50 buildings within weeks.
 
 ### [A software company reduced Hermes agent token costs by configuring background tasks instead of switching models.](https://digestops.com/p/a-software-company-reduced-hermes-agent-token-costs-by-29)
-*by [@IBuzovskyi](https://x.com/IBuzovskyi) · 680 likes · [source](https://x.com/IBuzovskyi/status/2072380699386978492)*
+*by [@IBuzovskyi](https://x.com/IBuzovskyi) · 682 likes · [source](https://x.com/IBuzovskyi/status/2072380699386978492)*
 
 - Token costs are driven by system prompts, memory files, skill headers, MCP tool schemas, and conversation history.
 - Disable or prune unused skills to reduce per-message token usage.
 - Turn off auto-memory and skill evolution if not needed to avoid background token consumption.
 
 ### [Paper Shaders open-sourced their shader codebase, allowing free use and resale.](https://digestops.com/p/paper-shaders-open-sourced-their-shader-codebase-allowing-22)
-*by [@stephenhaney](https://x.com/stephenhaney) · 5058 likes · [source](https://x.com/stephenhaney/status/2072369858638233843)*
+*by [@stephenhaney](https://x.com/stephenhaney) · 5274 likes · [source](https://x.com/stephenhaney/status/2072369858638233843)*
 
 - The code is fully open source and free to use for any purpose, including commercial resale.
 - Developers can create plugins, tools, templates, sites, apps, or libraries from the shaders.
@@ -53,7 +53,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - The app identifies specific Bluetooth profiles used by smart glasses, enabling real-time detection.
 
 ### [Cinematic website built in hours with Claude Code, no design team needed](https://digestops.com/p/cinematic-website-built-in-hours-with-claude-code-no-design-64)
-*by [@0xSlyth](https://x.com/0xSlyth) · 151 likes · [source](https://x.com/0xSlyth/status/2072360679571681463)*
+*by [@0xSlyth](https://x.com/0xSlyth) · 172 likes · [source](https://x.com/0xSlyth/status/2072360679571681463)*
 
 - Claude Code generated interactive particle animations, cinematic scroll effects, and premium typography.
 - The landing page uses immersive storytelling instead of static sections, with high performance frontend.
@@ -72,11 +72,25 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Modelence is built from scratch with agent-first design: auth, database, cron, monitoring built-in.
 - Aram scaled CodeSignal to Meta and Netflix; built Modelence to solve backend setup failures.
 
+### [Boring personal site design limits mistakes, focuses on content](https://digestops.com/p/boring-personal-site-design-limits-mistakes-focuses-on-79)
+*by [@emilkowalski](https://x.com/emilkowalski) · 2102 likes · [source](https://x.com/emilkowalski/status/2072301069271552363)*
+
+- Using one font size and monochrome colors reduces design errors.
+- Design engineers rarely excel at both design and code; focus on one.
+- Open source projects like Sonner and V were created to compensate for design weaknesses.
+
 ### [$20k/month with 8 clients at $2,500 each using AI agents](https://digestops.com/p/20k-month-with-8-clients-at-2-500-each-using-ai-agents-48)
 *by [@andreysuperior](https://x.com/andreysuperior) · 327 likes · [source](https://x.com/andreysuperior/status/2072287602313502739)*
 
 - System uses AI agents for lead qualification, support tickets, invoice chasing, meeting briefs, and competitor reports.
 - Total tool cost is $200/month; the codebase is being sold to others.
+
+### [Google and Anthropic move retrieval out of app into standalone service](https://digestops.com/p/google-and-anthropic-move-retrieval-out-of-app-into-80)
+*by [@_avichawla](https://x.com/_avichawla) · 432 likes · [source](https://x.com/_avichawla/status/2072265080851587239)*
+
+- Separating ingestion from query avoids stale embeddings and coupled infrastructure.
+- MCP and RAG Engine expose retrieval as a tool agents invoke, not a pipeline inside one app.
+- Old naive RAG causes index drift and duplicate connectors across apps.
 
 ### [Mac app in notch for drag-drop media and local LLM search](https://digestops.com/p/mac-app-in-notch-for-drag-drop-media-and-local-llm-search-49)
 *by [@akhil_bvs](https://x.com/akhil_bvs) · 296 likes · [source](https://x.com/akhil_bvs/status/2072255957082783819)*
@@ -87,7 +101,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-29
 
 ### [Vercel launched voice agent capabilities on AI Gateway with real-time speech and transcription.](https://digestops.com/p/vercel-launched-voice-agent-capabilities-on-ai-gateway-with-23)
-*by [@vercel](https://x.com/vercel) · 2468 likes · [source](https://x.com/vercel/status/2071620375621009416)*
+*by [@vercel](https://x.com/vercel) · 2469 likes · [source](https://x.com/vercel/status/2071620375621009416)*
 
 - Developers can build voice agents using useRealtime, generateSpeech, and transcribe functions in AI SDK 7.
 - The feature supports real-time speech and transcription.
@@ -99,6 +113,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Investing in skilled local agents can save thousands compared to hiring for premium design.
 
 ## 2026-06-28
+
+### [$10k website in 2 hours with Claude Code and 5 screenshots](https://digestops.com/p/10k-website-in-2-hours-with-claude-code-and-5-screenshots-81)
+*by [@Lummox_eth](https://x.com/Lummox_eth) · 122 likes · [source](https://x.com/Lummox_eth/status/2071327778796978462)*
+
+- Install Frontend Design and UI/UX Pro Max packages, then drop Awwwards and Pinterest screenshots into a reference folder.
+- Have Claude ask 4-6 clarifying questions before building to align on design taste.
+- The edge is giving the agent taste, references, and a review loop, not harder prompting.
 
 ### [$5,000 agency-style portfolio site in 2 hours with Claude Code](https://digestops.com/p/5-000-agency-style-portfolio-site-in-2-hours-with-claude-52)
 *by [@Asteri_eth](https://x.com/Asteri_eth) · 156 likes · [source](https://x.com/Asteri_eth/status/2071299906451456017)*
@@ -117,10 +138,17 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-27
 
 ### [Viktor Oddy published a 13-minute tutorial on using Figma to design and build $10k animated websites.](https://digestops.com/p/viktor-oddy-published-a-13-minute-tutorial-on-using-figma-26)
-*by [@viktoroddy](https://x.com/viktoroddy) · 1587 likes · [source](https://x.com/viktoroddy/status/2070831152248901804)*
+*by [@viktoroddy](https://x.com/viktoroddy) · 1588 likes · [source](https://x.com/viktoroddy/status/2070831152248901804)*
 
 - The tutorial covers step-by-step process for creating animated websites in Figma.
 - It targets high-end animated website design.
+
+### [47 clients/month at $400 each with Claude Code AI agency](https://digestops.com/p/47-clients-month-at-400-each-with-claude-code-ai-agency-82)
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 93 likes · [source](https://x.com/mikenevermiss/status/2070828906425311586)*
+
+- 7 AI agents automate the entire pipeline: find businesses without websites via Google Maps, build landing pages, create promo videos, and send personalized sales messages.
+- One agent runs on the owner's iPhone for on-the-go management; owner only approves leads and jumps on calls.
+- No big team or expensive setup required.
 
 ### [10,000 waitlist for iPod-like iPhone app built with AI](https://digestops.com/p/10-000-waitlist-for-ipod-like-iphone-app-built-with-ai-51)
 *by [@browomo](https://x.com/browomo) · 166 likes · [source](https://x.com/browomo/status/2070687307603362242)*
@@ -145,6 +173,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - A $10/month distributor ships tracks to Spotify; Claude handles metadata and busywork.
 - Spotify pays ~$0.003 per stream; tracks earn nothing until 1,000 plays in a year.
 
+### [Consistent cinematic video series from one ChatGPT Image 2 character](https://digestops.com/p/consistent-cinematic-video-series-from-one-chatgpt-image-2-83)
+*by [@ZentrixHQ](https://x.com/ZentrixHQ) · 90 likes · [source](https://x.com/ZentrixHQ/status/2070424561137422696)*
+
+- Create a character sheet with front, side, back views, 3-5 facial expressions, and different lighting conditions as source of truth.
+- Generate reference scenes (wide, medium, close-up) keeping clothing, hairstyle, and accessories identical.
+- Use cinematographer-style prompts like 'Low-angle tracking shot, 35mm lens, cinematic lighting, shallow depth of field' instead of generic descriptions.
+
 ## 2026-06-25
 
 ### [v0 released Design Systems 2.0, allowing import of design systems from GitHub, npm, Storybook, and Figma.](https://digestops.com/p/v0-released-design-systems-2-0-allowing-import-of-design-27)
@@ -156,7 +191,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-17
 
 ### [Vercel released an open-source agent framework called 'eve' with a Next.js-like file structure.](https://digestops.com/p/vercel-released-an-open-source-agent-framework-called-eve-21)
-*by [@vercel](https://x.com/vercel) · 7354 likes · [source](https://x.com/vercel/status/2067180054979936413)*
+*by [@vercel](https://x.com/vercel) · 7362 likes · [source](https://x.com/vercel/status/2067180054979936413)*
 
 - The framework uses a file-based routing structure similar to Next.js for organizing agents.
 - It includes directories for tools, skills, sandbox, and schedules.

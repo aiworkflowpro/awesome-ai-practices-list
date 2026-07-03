@@ -2,7 +2,16 @@
 
 > What people actually build the week a new model drops
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · updated 2026-07-03 10:26 UTC · 15 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · updated 2026-07-03 16:26 UTC · 17 practices
+
+## 2026-07-03
+
+### [Free Gemini 3.5 Flash with 1M context and 1500 requests/day](https://digestops.com/p/free-gemini-3-5-flash-with-1m-context-and-1500-requests-day-70)
+*by [@CDGalpha](https://x.com/CDGalpha) · 1031 likes · [source](https://x.com/CDGalpha/status/2072928597573353947)*
+
+- Gemini 3.5 Flash is free-tier eligible with no credit card required, offering 1M token context and 1500 requests/day.
+- Setup takes 2 minutes: get a free API key from Google AI Studio, then point any OpenAI-compatible client (Cursor, Cline, Claude Code) at Gemini.
+- Two models available: gemini-3.5-flash for strong performance, gemini-3.1-flash-lite for cheap high-volume calls.
 
 ## 2026-07-02
 
@@ -29,14 +38,14 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Entire build is up to scale, replicating New York City's cityscape.
 
 ### [Anthropic's official guide to prompting Fable 5 for autonomous work](https://digestops.com/p/anthropic-s-official-guide-to-prompting-fable-5-for-57)
-*by [@kirillk_web3](https://x.com/kirillk_web3) · 1102 likes · [source](https://x.com/kirillk_web3/status/2072415570624983471)*
+*by [@kirillk_web3](https://x.com/kirillk_web3) · 1187 likes · [source](https://x.com/kirillk_web3/status/2072415570624983471)*
 
 - Use /loop for autonomous multi-step tasks instead of step-by-step commands.
 - Add a memory file so Fable 5 learns from past runs.
 - Spin up 50+ subagents for complex tasks; treat Fable 5 as a consultant, not a chatbot.
 
 ### [A trader used Claude Fable 5 to improve a Polymarket bot that achieved 531.8% ROI over 42 days.](https://digestops.com/p/a-trader-used-claude-fable-5-to-improve-a-polymarket-bot-5)
-*by [@robrtcode](https://x.com/robrtcode) · 1128 likes · [source](https://x.com/robrtcode/status/2072389666871890002)*
+*by [@robrtcode](https://x.com/robrtcode) · 1188 likes · [source](https://x.com/robrtcode/status/2072389666871890002)*
 
 - The bot executed ~30 trades per hour on short-term Bitcoin 'Up/Down' markets, averaging $6,878 daily profit.
 - Strategy: wait for short-term pricing to deviate from fair value, enter before board rebalances, and repeat at scale.
@@ -57,13 +66,20 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 - Opus 4.8 produced higher quality output, but Sonnet 5 was faster and cheaper.
 
 ### [GeneBench-Pro benchmark for agents navigating messy biological data](https://digestops.com/p/genebench-pro-benchmark-for-agents-navigating-messy-54)
-*by [@OpenAI](https://x.com/OpenAI) · 4406 likes · [source](https://x.com/OpenAI/status/2072004836674167294)*
+*by [@OpenAI](https://x.com/OpenAI) · 4411 likes · [source](https://x.com/OpenAI/status/2072004836674167294)*
 
 - Introduced GeneBench-Pro, a research-level benchmark for evaluating agents on biological data analysis.
 - Benchmark tests agents' ability to navigate messy data, choose analysis paths, and make judgment calls.
 
+### [40 AI marketing agents for $500/month replacing $50k human team](https://digestops.com/p/40-ai-marketing-agents-for-500-month-replacing-50k-human-69)
+*by [@Zephyr_hg](https://x.com/Zephyr_hg) · 2255 likes · [source](https://x.com/Zephyr_hg/status/2071996301311381827)*
+
+- Built a team of 40 AI marketing agents operating under one human.
+- AI bill is $500 per month versus $50,000 for a human team.
+- One person can run the entire marketing function alone with the right setup.
+
 ### [4-second text-to-image at $0.034 per image with nano banana 2 lite](https://digestops.com/p/4-second-text-to-image-at-0-034-per-image-with-nano-banana-55)
-*by [@GoogleAIStudio](https://x.com/GoogleAIStudio) · 2760 likes · [source](https://x.com/GoogleAIStudio/status/2071989578672595413)*
+*by [@GoogleAIStudio](https://x.com/GoogleAIStudio) · 2761 likes · [source](https://x.com/GoogleAIStudio/status/2071989578672595413)*
 
 - nano banana 2 lite generates 1K-resolution images in 4 seconds
 - Cost is $0.034 per image, making it suitable for high-velocity pipelines
@@ -97,7 +113,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 ## 2026-06-24
 
 ### [First AI chip Jalapeño built from ground up with Broadcom for LLM workloads](https://digestops.com/p/first-ai-chip-jalape-o-built-from-ground-up-with-broadcom-53)
-*by [@OpenAI](https://x.com/OpenAI) · 22755 likes · [source](https://x.com/OpenAI/status/2069770172802773292)*
+*by [@OpenAI](https://x.com/OpenAI) · 22759 likes · [source](https://x.com/OpenAI/status/2069770172802773292)*
 
 - Designed and built a custom AI chip named Jalapeño in collaboration with Broadcom.
 - Chip is purpose-built for LLM workloads powering ChatGPT, Codex, API, and future agentic products.
@@ -106,7 +122,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/frontier-models) · u
 ## 2026-06-18
 
 ### [Anthropic tested Claude Opus 4.7 programming a robodog, achieving 20x speed improvement over human team with Opus 4.1.](https://digestops.com/p/anthropic-tested-claude-opus-4-7-programming-a-robodog-2)
-*by [@AnthropicAI](https://x.com/AnthropicAI) · 2283 likes · [source](https://x.com/AnthropicAI/status/2067651699486200091)*
+*by [@AnthropicAI](https://x.com/AnthropicAI) · 2285 likes · [source](https://x.com/AnthropicAI/status/2067651699486200091)*
 
 - Claude Opus 4.7 autonomously programmed a robodog ~20x faster than the best human team aided by Opus 4.1.
 - The robodog still failed to fetch a beach ball, indicating limitations in physical task completion.

@@ -2,9 +2,16 @@
 
 > Prompts, pipelines and params behind the clips going viral
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-03 22:26 UTC · 30 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 2026-07-04 04:26 UTC · 39 practices
 
 ## 2026-07-03
+
+### [$700 box, one weekend: 6 local AI agents replace $110/mo subscriptions](https://digestops.com/p/700-box-one-weekend-6-local-ai-agents-replace-110-mo-108)
+*by [@andreysuperior](https://x.com/andreysuperior) · 322 likes · [source](https://x.com/andreysuperior/status/2073038028860162350)*
+
+- Built a local AI agent system with 6 agents (research, writing, QA, publishing, monitoring) for $700 in parts in one weekend.
+- Runs entirely on owned hardware with no recurring subscription fees.
+- Manages a content agency with 15 clients requiring only 4 hours of weekly human oversight.
 
 ### [Capcut Studio prompt for live-action + anime sticker composite video](https://digestops.com/p/capcut-studio-prompt-for-live-action-anime-sticker-91)
 *by [@mrdejie](https://x.com/mrdejie) · 489 likes · [source](https://x.com/mrdejie/status/2072919411535827170)*
@@ -14,6 +21,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 
 ## 2026-07-02
 
+### [3-day short film 'RUROK: KING OF THE SKY' for ~$100 credits using Seedance 2.0](https://digestops.com/p/3-day-short-film-rurok-king-of-the-sky-for-100-credits-110)
+*by [@Dani__oros](https://x.com/Dani__oros) · 244 likes · [source](https://x.com/Dani__oros/status/2072804331955564915)*
+
+- Produced a short film in 3 days of free time using Seedance 2.0 for animation, Seed Audio 1.0 + Lyria 3 for music, and Nanobanana 2/Pro + Krea 2 for images.
+- Total cost was approximately $100 in AI credits.
+- Editing done in Capcut.
+
 ### [Fable 5 made every app relaunch 6× faster (12s→2s)](https://digestops.com/p/fable-5-made-every-app-relaunch-6-faster-12s-2s-90)
 *by [@thymikee](https://x.com/thymikee) · 490 likes · [source](https://x.com/thymikee/status/2072767578640933318)*
 
@@ -21,7 +35,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Time-to-interaction improved 2.3x, from 13s to 5s.
 
 ### [550 videos per day with Claude + Kling 3.0 for realistic UGC ads](https://digestops.com/p/550-videos-per-day-with-claude-kling-3-0-for-realistic-ugc-78)
-*by [@FynCas](https://x.com/FynCas) · 204 likes · [source](https://x.com/FynCas/status/2072681805312884947)*
+*by [@FynCas](https://x.com/FynCas) · 218 likes · [source](https://x.com/FynCas/status/2072681805312884947)*
 
 - Claude + Kling 3.0 generates fully-realistic UGC ads with cinematic lighting and human motion.
 - AI engine creates, tests, and scales short-form ads automatically.
@@ -35,14 +49,28 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Use /handoff skill and open new chat frequently to fix context window.
 
 ### [Built an AI speed radar with Claude that sold to a city district for $317,000.](https://digestops.com/p/built-an-ai-speed-radar-with-claude-that-sold-to-a-city-20)
-*by [@0x_fokki](https://x.com/0x_fokki) · 1000 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
+*by [@0x_fokki](https://x.com/0x_fokki) · 1016 likes · [source](https://x.com/0x_fokki/status/2072670906967625739)*
 
 - Claude tags vehicles and pedestrians in real-time from a camera feed, flagging speeders.
 - It clips video, reads license plates, matches owners, and emails fines automatically.
 - The system was built in 9 days for $20 in API calls.
 
+### [Cannes Bronze: Entire film 'Lorem Ipsum' made with Kling AI across styles](https://digestops.com/p/cannes-bronze-entire-film-lorem-ipsum-made-with-kling-ai-109)
+*by [@Kling_ai](https://x.com/Kling_ai) · 271 likes · [source](https://x.com/Kling_ai/status/2072634527235596375)*
+
+- Created a Cannes Lions Bronze-winning film using Kling AI for all shots across multiple styles and worlds.
+- Kling AI delivered consistent character performances, emotional depth, and cinematic control.
+- The film uses placeholder text 'Lorem Ipsum' to demonstrate AI's ability to convey emotion without real dialogue.
+
+### [Generated a full World Cup anthem in minutes with Musicful AI Custom Mode](https://digestops.com/p/generated-a-full-world-cup-anthem-in-minutes-with-musicful-111)
+*by [@MrOnsase](https://x.com/MrOnsase) · 222 likes · [source](https://x.com/MrOnsase/status/2072602032310018162)*
+
+- Created a Brazilian phonk anthem with stadium chants and heavy bass using Musicful AI's Custom Mode.
+- No studio or music production experience required; just lyrics and a style prompt.
+- Process: open Custom Mode, add lyrics, describe sound, hit generate.
+
 ### [16-min tutorial: build cinematic $50k websites with Claude Fable 5](https://digestops.com/p/16-min-tutorial-build-cinematic-50k-websites-with-claude-60)
-*by [@viktoroddy](https://x.com/viktoroddy) · 3360 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
+*by [@viktoroddy](https://x.com/viktoroddy) · 3513 likes · [source](https://x.com/viktoroddy/status/2072581407076200791)*
 
 - Recorded a step-by-step tutorial on using Claude Fable 5 to build high-end websites.
 - Demonstrates how anyone can build stunning sites fully with AI.
@@ -69,8 +97,15 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Design voice and personality once, reuse across every clip.
 - Generate full turnaround sheet with Claude writing prompt and GPT image rendering angles.
 
+### [Sketch storyboards in GPT Image 2 keep character consistency in Seedance 2.0 animation](https://digestops.com/p/sketch-storyboards-in-gpt-image-2-keep-character-106)
+*by [@ivanka_humeniuk](https://x.com/ivanka_humeniuk) · 460 likes · [source](https://x.com/ivanka_humeniuk/status/2072358790628868259)*
+
+- Using hyper-realistic storyboards causes character likeness drift; sketch storyboards maintain consistency.
+- Generate sketch storyboard in GPT Image 2, then animate with Seedance 2.0 for stable face.
+- Exact prompts for storyboard and animation shared in thread.
+
 ### [Built a Claude agent that creates websites in 45 minutes and generated $31,529 in one month.](https://digestops.com/p/built-a-claude-agent-that-creates-websites-in-45-minutes-19)
-*by [@mikenevermiss](https://x.com/mikenevermiss) · 777 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
+*by [@mikenevermiss](https://x.com/mikenevermiss) · 784 likes · [source](https://x.com/mikenevermiss/status/2072358721821221212)*
 
 - Claude builds complete websites from a single prompt including business type, colors, sections, and writing style.
 - The websites are clean HTML, mobile-friendly, fast-loading, with a working contact form.
@@ -83,6 +118,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Higgsfield generates cinematic clips from 30+ models matched to the story.
 - Claude Code scaffolds site with GSAP ScrollTrigger and Lenis smooth-scroll.
 
+### [Cannes Silver & Bronze: 'L'Ultimo Uomo Reale' film used Kling AI for majority of shots](https://digestops.com/p/cannes-silver-bronze-l-ultimo-uomo-reale-film-used-kling-ai-112)
+*by [@Kling_ai](https://x.com/Kling_ai) · 210 likes · [source](https://x.com/Kling_ai/status/2072296943666016418)*
+
+- Won Silver Lion and Bronze Lion at Cannes Lions 2026 for a film using Kling AI for most shots.
+- Kling AI delivered character consistency, cinematic visuals, and motion quality for nuanced micro-expressions and fantastical worlds.
+- Directed by Sebastian Strasser, produced by Lipstick.
+
 ### [$500 phone farms run AI girls for $15,300/month per account](https://digestops.com/p/500-phone-farms-run-ai-girls-for-15-300-month-per-account-63)
 *by [@0xTria](https://x.com/0xTria) · 201 likes · [source](https://x.com/0xTria/status/2072261597125333389)*
 
@@ -91,7 +133,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - One AI girl can make $15,300/month; scaled to 2000 devices.
 
 ### [A developer built a system of 20 AI agents that generated $20,000 in a month by running Etsy stores, Fiverr gigs, and other online businesses.](https://digestops.com/p/a-developer-built-a-system-of-20-ai-agents-that-generated-12)
-*by [@sandy4kad](https://x.com/sandy4kad) · 6461 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
+*by [@sandy4kad](https://x.com/sandy4kad) · 6533 likes · [source](https://x.com/sandy4kad/status/2072255044544512004)*
 
 - Use a central agent (e.g., 'Ultron' on GPT-5.5) to coordinate other agents and keep them working.
 - Automate product research by scraping Etsy for top sellers and replicating with small tweaks.
@@ -114,19 +156,33 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - Drones fire biodegradable seed pods at 180 capsules per minute, and satellite imagery monitors regrowth.
 
 ### [User generated a video of a young Korean woman in a residential neighborhood using Seedance 2.0 on OpenArt AI.](https://digestops.com/p/user-generated-a-video-of-a-young-korean-woman-in-a-10)
-*by [@john_my07](https://x.com/john_my07) · 14935 likes · [source](https://x.com/john_my07/status/2071977017474789557)*
+*by [@john_my07](https://x.com/john_my07) · 15184 likes · [source](https://x.com/john_my07/status/2071977017474789557)*
 
 - Use a detailed prompt specifying subject appearance, location, and visual style for consistent video generation.
 - Include constraints like 'maintain consistent identity' and 'no commercial activity' to guide the model.
 - Specify camera style (e.g., documentary realism) and natural behavior for realistic output.
 
+### [Complete tutorial: unlimited AI images and videos with Google Flow](https://digestops.com/p/complete-tutorial-unlimited-ai-images-and-videos-with-107)
+*by [@iamveektoria_](https://x.com/iamveektoria_) · 359 likes · [source](https://x.com/iamveektoria_/status/2071866551498658025)*
+
+- Google Flow enables AI image generation, video creation, workflow automation, and bulk content creation.
+- Tutorial covers scaling YouTube automation business or any AI content workflow.
+- 6-minute tutorial provides step-by-step instructions.
+
 ## 2026-06-29
 
 ### [Handheld camera motion for Seedance 2.0 using iPhone ARKit](https://digestops.com/p/handheld-camera-motion-for-seedance-2-0-using-iphone-arkit-76)
-*by [@maxprokopp](https://x.com/maxprokopp) · 1414 likes · [source](https://x.com/maxprokopp/status/2071658167453515933)*
+*by [@maxprokopp](https://x.com/maxprokopp) · 1429 likes · [source](https://x.com/maxprokopp/status/2071658167453515933)*
 
 - Use iPhone ARKit to capture realistic handheld camera motion in 3D space, then feed to Seedance for AI filmmaking.
 - Stage the scene in open source 3D space, walk around to record motion, generate starting image, then feed to Seedance.
+
+### [Hybrid Blender previs + Seedance 2.0 for cinematic AI video](https://digestops.com/p/hybrid-blender-previs-seedance-2-0-for-cinematic-ai-video-105)
+*by [@reidhannaford](https://x.com/reidhannaford) · 1553 likes · [source](https://x.com/reidhannaford/status/2071595581508563168)*
+
+- Use Blender to block out scene and animate camera before feeding to Seedance for video generation.
+- Start image from Midjourney, then refine staging and timing in Blender for better control.
+- Seedance matches reference closely but not perfectly; previs solves scene before generating shot.
 
 ### [87% cost cut with 4% quality loss by swapping to Chinese AI models](https://digestops.com/p/87-cost-cut-with-4-quality-loss-by-swapping-to-chinese-ai-75)
 *by [@DeRonin_](https://x.com/DeRonin_) · 7852 likes · [source](https://x.com/DeRonin_/status/2071561335234531578)*
@@ -203,6 +259,15 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-video) · updated 
 - System scrapes trending topics and top posts daily to generate 10 ranked content ideas.
 - AI writes post in user's style, checks for errors, and cross-posts to 5 platforms automatically.
 - Post-performance data (likes, shares, bookmarks) feeds back to improve future content generation.
+
+## 2026-06-25
+
+### [Exposed AI video scam: fake Sora 2 model, stolen hands, real Picsart workflow](https://digestops.com/p/exposed-ai-video-scam-fake-sora-2-model-stolen-hands-real-104)
+*by [@aeronxbt](https://x.com/aeronxbt) · 1985 likes · [source](https://x.com/aeronxbt/status/2070175434957001062)*
+
+- Scammers use fake AI models like 'Sora 2' to lure victims into DM scams.
+- Real workflow involves Picsart for generating cartoon content, but the claimed model doesn't exist.
+- Video inconsistencies (e.g., different hands) reveal the content is not genuine.
 
 ## 2026-01-19
 

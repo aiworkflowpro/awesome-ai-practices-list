@@ -2,7 +2,7 @@
 
 > Working setups for coding agents, not hot takes
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated 2026-07-03 22:26 UTC · 13 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated 2026-07-04 04:26 UTC · 16 practices
 
 ## 2026-07-03
 
@@ -16,7 +16,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 ## 2026-07-02
 
 ### [Built a high-quality brand site with glowing effects and depth in one evening using Claude Code.](https://digestops.com/p/built-a-high-quality-brand-site-with-glowing-effects-and-9)
-*by [@monokern](https://x.com/monokern) · 1698 likes · [source](https://x.com/monokern/status/2072618245790580820)*
+*by [@monokern](https://x.com/monokern) · 1700 likes · [source](https://x.com/monokern/status/2072618245790580820)*
 
 - Claude Code can generate a brand site with custom effects like glowing headlines and product breaking out of frame.
 - The result matches quality of $5,000-$8,000 brand sites but costs only a Claude subscription.
@@ -45,6 +45,13 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 - The 'claude-code-setup' plugin scans your project and suggests hooks, skills, MCP servers, sub-agents, and automations.
 - It provides step-by-step setup guidance, not just suggestions.
 - Install via: /plugin install claude-code-setup@claude-plugins-official
+
+### [Automate your job with Claude Skills from Anthropic paper](https://digestops.com/p/automate-your-job-with-claude-skills-from-anthropic-paper-102)
+*by [@polydao](https://x.com/polydao) · 2221 likes · [source](https://x.com/polydao/status/2071832672066830847)*
+
+- Encode daily workflows into Claude as custom Skills.
+- Package routines into automated folders for agent execution.
+- Agent connects to local tools via MCP servers.
 
 ## 2026-06-29
 
@@ -92,12 +99,26 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-coding) · updated
 ## 2026-06-25
 
 ### [Spin up persistent cloud dev environment in one prompt with DigitalOcean Codex plugin](https://digestops.com/p/spin-up-persistent-cloud-dev-environment-in-one-prompt-with-74)
-*by [@OpenAIDevs](https://x.com/OpenAIDevs) · 1008 likes · [source](https://x.com/OpenAIDevs/status/2070261549391024403)*
+*by [@OpenAIDevs](https://x.com/OpenAIDevs) · 1007 likes · [source](https://x.com/OpenAIDevs/status/2070261549391024403)*
 
 - One prompt creates a persistent cloud development environment via the DigitalOcean plugin for Codex.
 - Environment runs in your DigitalOcean account and stays active when you step away.
 
+## 2026-06-24
+
+### [Delegate tasks to Cursor from Notion via Cursor SDK](https://digestops.com/p/delegate-tasks-to-cursor-from-notion-via-cursor-sdk-101)
+*by [@cursor_ai](https://x.com/cursor_ai) · 2480 likes · [source](https://x.com/cursor_ai/status/2069872515548340407)*
+
+- Cloud agents run on same models and runtime as Cursor.
+- Assign tasks from Notion to open a PR for team review.
+
 ## 2026-06-23
+
+### [One-click add popular plugins, skills, MCPs from team leaderboard](https://digestops.com/p/one-click-add-popular-plugins-skills-mcps-from-team-103)
+*by [@cursor_ai](https://x.com/cursor_ai) · 1840 likes · [source](https://x.com/cursor_ai/status/2069512593887092811)*
+
+- Cursor shows leaderboard of most popular plugins, skills, MCPs across team.
+- Add any to your setup with one click from Customize page.
 
 ### [206-page Codex guide from zero to real projects](https://digestops.com/p/206-page-codex-guide-from-zero-to-real-projects-71)
 *by [@bozhou_ai](https://x.com/bozhou_ai) · 4205 likes · [source](https://x.com/bozhou_ai/status/2069250352168493142)*

@@ -2,7 +2,35 @@
 
 > From one-line prompt to shipped interface
 
-Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-03 22:26 UTC · 32 practices
+Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · updated 2026-07-04 04:26 UTC · 36 practices
+
+## 2026-07-03
+
+### [Reference existing projects in Lovable with @ to reuse design systems](https://digestops.com/p/reference-existing-projects-in-lovable-with-to-reuse-design-114)
+*by [@Lovable](https://x.com/Lovable) · 147 likes · [source](https://x.com/Lovable/status/2073044258945433780)*
+
+- Type @ in Lovable to pull design systems, UX flows, assets, or components from other projects.
+- Lovable reads chats and code from referenced projects to adapt them to the current build.
+
+### [$10K-quality website with Fable 5: dynamic environment, no studio needed](https://digestops.com/p/10k-quality-website-with-fable-5-dynamic-environment-no-116)
+*by [@xmyttle](https://x.com/xmyttle) · 74 likes · [source](https://x.com/xmyttle/status/2073016068411408739)*
+
+- Fable 5 creates scroll-driven environmental changes (water, lighting, world shifts) that previously required a designer, WebGL developer, motion specialist, and creative studio.
+- One builder can now deliver high-end interactive websites that clients assumed were out of budget.
+
+### [$540K/month from a gym app using Duolingo playbook](https://digestops.com/p/540k-month-from-a-gym-app-using-duolingo-playbook-115)
+*by [@JeremyLasne](https://x.com/JeremyLasne) · 99 likes · [source](https://x.com/JeremyLasne/status/2072958152195100866)*
+
+- 42-screen onboarding with elephant mascot, rank system, and avatar personalization drives 200K downloads/month.
+- Paywall strategy: 'Try free for 7 days' as only button, then trust-building reminder before card required.
+- Referral ask mid-onboarding and mandatory notifications boost retention.
+
+### [Fortnite rebuilt from 1 prompt in 20 min with Fable 5](https://digestops.com/p/fortnite-rebuilt-from-1-prompt-in-20-min-with-fable-5-113)
+*by [@MyWestLord](https://x.com/MyWestLord) · 179 likes · [source](https://x.com/MyWestLord/status/2072858117746950558)*
+
+- Fable 5 generated a 100-player battle royale in browser with real character models, hit reactions, and working movement from a single prompt.
+- GLM 5.2 failed with 2 FPS, broken controls, and unaimable gun under same conditions.
+- One follow-up prompt 'add more Fortn' was used to enhance the game.
 
 ## 2026-07-02
 
@@ -20,7 +48,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - No switching tools or re-uploading; no editing skills required.
 
 ### [Alibaba open-sourced PageAgent, a JavaScript AI agent that lives inside webpages for natural language control.](https://digestops.com/p/alibaba-open-sourced-pageagent-a-javascript-ai-agent-that-24)
-*by [@KanikaBK](https://x.com/KanikaBK) · 3192 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
+*by [@KanikaBK](https://x.com/KanikaBK) · 3413 likes · [source](https://x.com/KanikaBK/status/2072606006971081213)*
 
 - PageAgent can be embedded with a single line of HTML and works without browser extensions or backend changes.
 - It supports smart form filling, voice commands, multi-page tasks, and MCP server integration.
@@ -108,7 +136,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-29
 
 ### [Vercel launched voice agent capabilities on AI Gateway with real-time speech and transcription.](https://digestops.com/p/vercel-launched-voice-agent-capabilities-on-ai-gateway-with-23)
-*by [@vercel](https://x.com/vercel) · 2470 likes · [source](https://x.com/vercel/status/2071620375621009416)*
+*by [@vercel](https://x.com/vercel) · 2472 likes · [source](https://x.com/vercel/status/2071620375621009416)*
 
 - Developers can build voice agents using useRealtime, generateSpeech, and transcribe functions in AI SDK 7.
 - The feature supports real-time speech and transcription.
@@ -122,7 +150,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-28
 
 ### [$10k website in 2 hours with Claude Code and 5 screenshots](https://digestops.com/p/10k-website-in-2-hours-with-claude-code-and-5-screenshots-81)
-*by [@Lummox_eth](https://x.com/Lummox_eth) · 122 likes · [source](https://x.com/Lummox_eth/status/2071327778796978462)*
+*by [@Lummox_eth](https://x.com/Lummox_eth) · 121 likes · [source](https://x.com/Lummox_eth/status/2071327778796978462)*
 
 - Install Frontend Design and UI/UX Pro Max packages, then drop Awwwards and Pinterest screenshots into a reference folder.
 - Have Claude ask 4-6 clarifying questions before building to align on design taste.
@@ -136,7 +164,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 - Claude Code built the site, fixed transitions, improved flashlight lag, adjusted fonts.
 
 ### [A developer built a $10k-tier animated 3D website using Claude Code for the cost of a subscription.](https://digestops.com/p/a-developer-built-a-10k-tier-animated-3d-website-using-25)
-*by [@monokern](https://x.com/monokern) · 2199 likes · [source](https://x.com/monokern/status/2071257133614584186)*
+*by [@monokern](https://x.com/monokern) · 2202 likes · [source](https://x.com/monokern/status/2071257133614584186)*
 
 - The site features real-time 3D product models reacting to scroll, smooth hover interactions, and cinematic aesthetics.
 - Claude Code enabled a single developer to replace a team of 3D artist, motion designer, and frontend developer.
@@ -219,7 +247,7 @@ Auto-curated from X by [DigestOps](https://digestops.com/t/ai-web-design) · upd
 ## 2026-06-17
 
 ### [Vercel released an open-source agent framework called 'eve' with a Next.js-like file structure.](https://digestops.com/p/vercel-released-an-open-source-agent-framework-called-eve-21)
-*by [@vercel](https://x.com/vercel) · 7364 likes · [source](https://x.com/vercel/status/2067180054979936413)*
+*by [@vercel](https://x.com/vercel) · 7365 likes · [source](https://x.com/vercel/status/2067180054979936413)*
 
 - The framework uses a file-based routing structure similar to Next.js for organizing agents.
 - It includes directories for tools, skills, sandbox, and schedules.

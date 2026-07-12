@@ -28,7 +28,7 @@ Free API keys: <https://digestops.com/signup> · Docs: <https://digestops.com/do
 
 | Project | What it is |
 |---|---|
-| [awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list) | 2000+ curated RSS feeds across 30 categories |
+| [awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list) | 8936+ curated English RSS feeds across 21 categories |
 | ✅ [awesome-ai-practices-list](https://github.com/aiworkflowpro/awesome-ai-practices-list) | AI best practices, auto-curated every 6h by DigestOps |
 | [awp-workflow-agent-spec](https://github.com/aiworkflowpro/awp-workflow-agent-spec) | Specification for production-grade Claude Code Skills |
 | [awp-video-editing-skill](https://github.com/aiworkflowpro/awp-video-editing-skill) | Claude Code Skill for automated video editing |
